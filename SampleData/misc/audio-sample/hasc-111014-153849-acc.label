@@ -1,0 +1,2 @@
+#targetfile:$(projectRoot)/SampleData/misc/audio-sample/hasc-111014-153849-acc.csv
+#audiofile:$(projectRoot)/SampleData/misc/audio-sample/hasc-111014-153849-audio.wav; offsettime:0.4

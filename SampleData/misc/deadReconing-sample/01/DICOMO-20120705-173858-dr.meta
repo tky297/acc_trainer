@@ -1,0 +1,5 @@
+TargetImg:$(projectRoot)/Data/DICOMO/01/hotel.jpg
+InitialPoint:760,310
+InitialDirection:0
+Stride:2.0
+Error:-0.12
